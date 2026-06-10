@@ -34,7 +34,7 @@ A Room object is created.
 Width is set using setWidth() function.
 The friend function printWidth() is called.
 It directly accesses and prints the private variable width.
-💻 Sample Input
+
 myRoom.setWidth(10.10);
 📤 Sample Output
 Width of the room is: 10.1
